@@ -1,4 +1,4 @@
-# FIltering-stop-words-using-NLP
+# Filtering-stop-words-using-NLP
 
 Stop words refer to common words in a language.
 
